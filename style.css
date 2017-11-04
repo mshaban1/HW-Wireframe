@@ -1,0 +1,36 @@
+body{
+    background-color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    
+}
+
+header,nav,footer{
+    background-color: #ebebeb;
+    width: 930px;
+    height: 45px;
+    margin: 10px auto 10px;
+    padding:40px 15px 15px;
+}
+
+.content{
+    display:inline-flex;
+}
+
+aside{
+    margin-left: 10px;
+    padding-top:25px;
+    width:455px;    
+    background-color: #ebebeb;
+}
+
+section{
+    width:495px;
+    background-color: #ebebeb;
+}
+
+article{
+    background-color: #999999;
+    margin:30px 10px 10px
+}
